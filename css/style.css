@@ -382,11 +382,11 @@ li a:hover{
     text-decoration: none;
     color: black;
 }
-.l-column-3 #heading{
+#col-1-heading, #col-2-heading, #col-3-heading, #col-4-heading{
    
     margin-bottom: 35px;
 }
-.l-column-3 #heading a{
+#col-1-heading a, #col-2-heading a, #col-3-heading a, #col-4-heading a{
     color: grey;
 }
 .l-column-4{
